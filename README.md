@@ -4,7 +4,7 @@
 # Download & Setup Instructions
 
 * 1 - Clone project: git clone https://github.com/ErdemOzsoy13/Proshop/
-* 2 - cd proshop_django
+* 2 - cd Proshop
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
 * 5 - pip install -r requirements.txt
